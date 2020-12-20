@@ -1,0 +1,6229 @@
+
+
+
+.data_table{
+	position: absolute;
+	top:1600px;
+	right:800px;
+	z-index: 2;
+}
+.map{
+	z-index: 1;
+}
+.localunit_0{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_0:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_1{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_1:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_2{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_2:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_3{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_3:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_4{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_4:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_5{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_5:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_6{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_6:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_7{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_7:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_8{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_8:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_9{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_9:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_10{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_10:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_11{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_11:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_12{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_12:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_13{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_13:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_14{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_14:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_15{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_15:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_16{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_16:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_17{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_17:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_18{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_18:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_19{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_19:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_20{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_20:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_21{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_21:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_22{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_22:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_23{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_23:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_24{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_24:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_25{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_25:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_26{
+fill: #00008B;
+	 opacity: 0.3204;
+}
+.localunit_26:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_27{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_27:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_28{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_28:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_29{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_29:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_30{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_30:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_31{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_31:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_32{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_32:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_33{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_33:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_34{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_34:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_35{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_35:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_36{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_36:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_37{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_37:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_38{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_38:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_39{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_39:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_40{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_40:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_41{
+fill: #00008B;
+	 opacity: 0.5412;
+}
+.localunit_41:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_42{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_42:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_43{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_43:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_44{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_44:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_45{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_45:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_46{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_46:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_47{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_47:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_48{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_48:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_49{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_49:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_50{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_50:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_51{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_51:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_52{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_52:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_53{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_53:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_54{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_54:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_55{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_55:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_56{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_56:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_57{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_57:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_58{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_58:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_59{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_59:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_60{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_60:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_61{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_61:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_62{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_62:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_63{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_63:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_64{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_64:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_65{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_65:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_66{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_66:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_67{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_67:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_68{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_68:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_69{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_69:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_70{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_70:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_71{
+fill: #00008B;
+	 opacity: 0.5394;
+}
+.localunit_71:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_72{
+fill: #00008B;
+	 opacity: 0.189;
+}
+.localunit_72:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_73{
+fill: #00008B;
+	 opacity: 0.189;
+}
+.localunit_73:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_74{
+fill: #00008B;
+	 opacity: 0.189;
+}
+.localunit_74:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_75{
+fill: #00008B;
+	 opacity: 0.189;
+}
+.localunit_75:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_76{
+fill: #00008B;
+	 opacity: 0.189;
+}
+.localunit_76:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_77{
+fill: #00008B;
+	 opacity: 0.189;
+}
+.localunit_77:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_78{
+fill: #00008B;
+	 opacity: 0.189;
+}
+.localunit_78:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_79{
+fill: #00008B;
+	 opacity: 0.2034;
+}
+.localunit_79:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_80{
+fill: #00008B;
+	 opacity: 0.2034;
+}
+.localunit_80:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_81{
+fill: #00008B;
+	 opacity: 0.2034;
+}
+.localunit_81:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_82{
+fill: #00008B;
+	 opacity: 0.2034;
+}
+.localunit_82:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_83{
+fill: #00008B;
+	 opacity: 0.2034;
+}
+.localunit_83:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_84{
+fill: #00008B;
+	 opacity: 0.2034;
+}
+.localunit_84:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_85{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_85:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_86{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_86:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_87{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_87:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_88{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_88:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_89{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_89:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_90{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_90:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_91{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_91:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_92{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_92:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_93{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_93:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_94{
+fill: #00008B;
+	 opacity: 0.36800000000000005;
+}
+.localunit_94:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_95{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_95:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_96{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_96:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_97{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_97:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_98{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_98:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_99{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_99:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_100{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_100:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_101{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_101:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_102{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_102:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_103{
+fill: #00008B;
+	 opacity: 0.34800000000000003;
+}
+.localunit_103:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_104{
+fill: #00008B;
+	 opacity: 0.2808;
+}
+.localunit_104:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_105{
+fill: #00008B;
+	 opacity: 0.2808;
+}
+.localunit_105:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_106{
+fill: #00008B;
+	 opacity: 0.2808;
+}
+.localunit_106:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_107{
+fill: #00008B;
+	 opacity: 0.2808;
+}
+.localunit_107:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_108{
+fill: #00008B;
+	 opacity: 0.2808;
+}
+.localunit_108:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_109{
+fill: #00008B;
+	 opacity: 0.2808;
+}
+.localunit_109:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_110{
+fill: #00008B;
+	 opacity: 0.2808;
+}
+.localunit_110:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_111{
+fill: #00008B;
+	 opacity: 0.2808;
+}
+.localunit_111:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_112{
+fill: #00008B;
+	 opacity: 0.267;
+}
+.localunit_112:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_113{
+fill: #00008B;
+	 opacity: 0.267;
+}
+.localunit_113:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_114{
+fill: #00008B;
+	 opacity: 0.267;
+}
+.localunit_114:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_115{
+fill: #00008B;
+	 opacity: 0.267;
+}
+.localunit_115:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_116{
+fill: #00008B;
+	 opacity: 0.267;
+}
+.localunit_116:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_117{
+fill: #00008B;
+	 opacity: 0.267;
+}
+.localunit_117:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_118{
+fill: #00008B;
+	 opacity: 0.267;
+}
+.localunit_118:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_119{
+fill: #00008B;
+	 opacity: 0.267;
+}
+.localunit_119:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_120{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_120:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_121{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_121:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_122{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_122:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_123{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_123:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_124{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_124:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_125{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_125:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_126{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_126:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_127{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_127:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_128{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_128:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_129{
+fill: #00008B;
+	 opacity: 0.3438;
+}
+.localunit_129:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_130{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_130:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_131{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_131:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_132{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_132:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_133{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_133:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_134{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_134:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_135{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_135:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_136{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_136:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_137{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_137:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_138{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_138:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_139{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_139:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_140{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_140:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_141{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_141:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_142{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_142:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_143{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_143:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_144{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_144:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_145{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_145:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_146{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_146:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_147{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_147:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_148{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_148:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_149{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_149:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_150{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_150:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_151{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_151:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_152{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_152:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_153{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_153:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_154{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_154:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_155{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_155:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_156{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_156:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_157{
+fill: #00008B;
+	 opacity: 0.525;
+}
+.localunit_157:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_158{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_158:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_159{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_159:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_160{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_160:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_161{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_161:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_162{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_162:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_163{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_163:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_164{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_164:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_165{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_165:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_166{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_166:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_167{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_167:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_168{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_168:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_169{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_169:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_170{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_170:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_171{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_171:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_172{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_172:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_173{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_173:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_174{
+fill: #00008B;
+	 opacity: 0.483;
+}
+.localunit_174:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_175{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_175:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_176{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_176:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_177{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_177:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_178{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_178:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_179{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_179:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_180{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_180:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_181{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_181:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_182{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_182:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_183{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_183:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_184{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_184:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_185{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_185:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_186{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_186:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_187{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_187:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_188{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_188:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_189{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_189:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_190{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_190:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_191{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_191:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_192{
+fill: #00008B;
+	 opacity: 0.2977;
+}
+.localunit_192:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_193{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_193:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_194{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_194:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_195{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_195:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_196{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_196:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_197{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_197:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_198{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_198:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_199{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_199:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_200{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_200:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_201{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_201:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_202{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_202:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_203{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_203:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_204{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_204:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_205{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_205:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_206{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_206:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_207{
+fill: #00008B;
+	 opacity: 0.28652000000000005;
+}
+.localunit_207:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_208{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_208:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_209{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_209:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_210{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_210:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_211{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_211:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_212{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_212:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_213{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_213:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_214{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_214:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_215{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_215:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_216{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_216:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_217{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_217:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_218{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_218:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_219{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_219:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_220{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_220:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_221{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_221:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_222{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_222:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_223{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_223:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_224{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_224:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_225{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_225:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_226{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_226:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_227{
+fill: #00008B;
+	 opacity: 0.49079999999999996;
+}
+.localunit_227:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_228{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_228:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_229{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_229:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_230{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_230:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_231{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_231:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_232{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_232:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_233{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_233:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_234{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_234:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_235{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_235:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_236{
+fill: #00008B;
+	 opacity: 0.401;
+}
+.localunit_236:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_237{
+fill: #00008B;
+	 opacity: 0.467;
+}
+.localunit_237:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_238{
+fill: #00008B;
+	 opacity: 0.467;
+}
+.localunit_238:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_239{
+fill: #00008B;
+	 opacity: 0.467;
+}
+.localunit_239:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_240{
+fill: #00008B;
+	 opacity: 0.467;
+}
+.localunit_240:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_241{
+fill: #00008B;
+	 opacity: 0.467;
+}
+.localunit_241:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_242{
+fill: #00008B;
+	 opacity: 0.467;
+}
+.localunit_242:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_243{
+fill: #00008B;
+	 opacity: 0.467;
+}
+.localunit_243:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_244{
+fill: #00008B;
+	 opacity: 0.467;
+}
+.localunit_244:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_245{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_245:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_246{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_246:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_247{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_247:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_248{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_248:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_249{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_249:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_250{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_250:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_251{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_251:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_252{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_252:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_253{
+fill: #00008B;
+	 opacity: 0.361;
+}
+.localunit_253:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_254{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_254:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_255{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_255:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_256{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_256:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_257{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_257:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_258{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_258:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_259{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_259:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_260{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_260:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_261{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_261:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_262{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_262:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_263{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_263:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_264{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_264:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_265{
+fill: #00008B;
+	 opacity: 0.3791333333333334;
+}
+.localunit_265:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_266{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_266:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_267{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_267:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_268{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_268:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_269{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_269:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_270{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_270:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_271{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_271:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_272{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_272:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_273{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_273:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_274{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_274:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_275{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_275:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_276{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_276:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_277{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_277:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_278{
+fill: #00008B;
+	 opacity: 0.537;
+}
+.localunit_278:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_279{
+fill: #00008B;
+	 opacity: 0.42168;
+}
+.localunit_279:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_280{
+fill: #00008B;
+	 opacity: 0.42168;
+}
+.localunit_280:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_281{
+fill: #00008B;
+	 opacity: 0.42168;
+}
+.localunit_281:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_282{
+fill: #00008B;
+	 opacity: 0.42168;
+}
+.localunit_282:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_283{
+fill: #00008B;
+	 opacity: 0.42168;
+}
+.localunit_283:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_284{
+fill: #00008B;
+	 opacity: 0.42168;
+}
+.localunit_284:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_285{
+fill: #00008B;
+	 opacity: 0.5368;
+}
+.localunit_285:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_286{
+fill: #00008B;
+	 opacity: 0.5368;
+}
+.localunit_286:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_287{
+fill: #00008B;
+	 opacity: 0.5368;
+}
+.localunit_287:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_288{
+fill: #00008B;
+	 opacity: 0.5368;
+}
+.localunit_288:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_289{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_289:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_290{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_290:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_291{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_291:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_292{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_292:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_293{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_293:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_294{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_294:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_295{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_295:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_296{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_296:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_297{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_297:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_298{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_298:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_299{
+fill: #00008B;
+	 opacity: 0.9;
+}
+.localunit_299:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_300{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_300:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_301{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_301:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_302{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_302:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_303{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_303:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_304{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_304:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_305{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_305:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_306{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_306:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_307{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_307:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_308{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_308:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_309{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_309:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_310{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_310:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_311{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_311:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_312{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_312:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_313{
+fill: #00008B;
+	 opacity: 0.5023333333333334;
+}
+.localunit_313:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_314{
+fill: #00008B;
+	 opacity: 0.24300000000000002;
+}
+.localunit_314:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_315{
+fill: #00008B;
+	 opacity: 0.24300000000000002;
+}
+.localunit_315:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_316{
+fill: #00008B;
+	 opacity: 0.24300000000000002;
+}
+.localunit_316:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_317{
+fill: #00008B;
+	 opacity: 0.24300000000000002;
+}
+.localunit_317:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_318{
+fill: #00008B;
+	 opacity: 0.24300000000000002;
+}
+.localunit_318:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_319{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_319:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_320{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_320:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_321{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_321:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_322{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_322:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_323{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_323:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_324{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_324:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_325{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_325:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_326{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_326:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_327{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_327:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_328{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_328:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_329{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_329:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_330{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_330:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_331{
+fill: #00008B;
+	 opacity: 0.48473333333333335;
+}
+.localunit_331:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_332{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_332:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_333{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_333:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_334{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_334:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_335{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_335:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_336{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_336:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_337{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_337:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_338{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_338:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_339{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_339:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_340{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_340:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_341{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_341:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_342{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_342:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_343{
+fill: #00008B;
+	 opacity: 0.5309333333333334;
+}
+.localunit_343:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_344{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_344:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_345{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_345:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_346{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_346:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_347{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_347:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_348{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_348:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_349{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_349:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_350{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_350:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_351{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_351:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_352{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_352:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_353{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_353:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_354{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_354:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_355{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_355:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_356{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_356:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_357{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_357:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_358{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_358:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_359{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_359:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_360{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_360:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_361{
+fill: #00008B;
+	 opacity: 0.28106000000000003;
+}
+.localunit_361:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_362{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_362:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_363{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_363:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_364{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_364:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_365{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_365:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_366{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_366:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_367{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_367:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_368{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_368:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_369{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_369:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_370{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_370:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_371{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_371:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_372{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_372:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_373{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_373:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_374{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_374:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_375{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_375:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_376{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_376:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_377{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_377:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_378{
+fill: #00008B;
+	 opacity: 0.49679999999999996;
+}
+.localunit_378:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_379{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_379:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_380{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_380:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_381{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_381:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_382{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_382:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_383{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_383:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_384{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_384:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_385{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_385:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_386{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_386:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_387{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_387:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_388{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_388:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_389{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_389:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_390{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_390:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_391{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_391:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_392{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_392:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_393{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_393:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_394{
+fill: #00008B;
+	 opacity: 0.5057999999999999;
+}
+.localunit_394:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_395{
+fill: #00008B;
+	 opacity: 0.36504000000000003;
+}
+.localunit_395:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_396{
+fill: #00008B;
+	 opacity: 0.36504000000000003;
+}
+.localunit_396:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_397{
+fill: #00008B;
+	 opacity: 0.36504000000000003;
+}
+.localunit_397:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_398{
+fill: #00008B;
+	 opacity: 0.36504000000000003;
+}
+.localunit_398:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_399{
+fill: #00008B;
+	 opacity: 0.36504000000000003;
+}
+.localunit_399:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_400{
+fill: #00008B;
+	 opacity: 0.36504000000000003;
+}
+.localunit_400:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_401{
+fill: #00008B;
+	 opacity: 0.36504000000000003;
+}
+.localunit_401:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_402{
+fill: #00008B;
+	 opacity: 0.36504000000000003;
+}
+.localunit_402:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_403{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_403:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_404{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_404:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_405{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_405:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_406{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_406:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_407{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_407:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_408{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_408:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_409{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_409:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_410{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_410:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_411{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_411:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_412{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_412:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_413{
+fill: #00008B;
+	 opacity: 0.4033333333333333;
+}
+.localunit_413:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_414{
+fill: #00008B;
+	 opacity: 0.253;
+}
+.localunit_414:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_415{
+fill: #00008B;
+	 opacity: 0.253;
+}
+.localunit_415:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_416{
+fill: #00008B;
+	 opacity: 0.253;
+}
+.localunit_416:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_417{
+fill: #00008B;
+	 opacity: 0.253;
+}
+.localunit_417:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_418{
+fill: #00008B;
+	 opacity: 0.253;
+}
+.localunit_418:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_419{
+fill: #00008B;
+	 opacity: 0.253;
+}
+.localunit_419:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_420{
+fill: #00008B;
+	 opacity: 0.253;
+}
+.localunit_420:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_421{
+fill: #00008B;
+	 opacity: 0.253;
+}
+.localunit_421:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_422{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_422:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_423{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_423:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_424{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_424:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_425{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_425:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_426{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_426:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_427{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_427:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_428{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_428:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_429{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_429:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_430{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_430:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_431{
+fill: #00008B;
+	 opacity: 0.463;
+}
+.localunit_431:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_432{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_432:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_433{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_433:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_434{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_434:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_435{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_435:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_436{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_436:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_437{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_437:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_438{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_438:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_439{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_439:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_440{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_440:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_441{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_441:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_442{
+fill: #00008B;
+	 opacity: 0.3726;
+}
+.localunit_442:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_443{
+fill: #00008B;
+	 opacity: 0.33254000000000006;
+}
+.localunit_443:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_444{
+fill: #00008B;
+	 opacity: 0.33254000000000006;
+}
+.localunit_444:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_445{
+fill: #00008B;
+	 opacity: 0.33254000000000006;
+}
+.localunit_445:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_446{
+fill: #00008B;
+	 opacity: 0.33254000000000006;
+}
+.localunit_446:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_447{
+fill: #00008B;
+	 opacity: 0.33254000000000006;
+}
+.localunit_447:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_448{
+fill: #00008B;
+	 opacity: 0.147;
+}
+.localunit_448:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_449{
+fill: #00008B;
+	 opacity: 0.147;
+}
+.localunit_449:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_450{
+fill: #00008B;
+	 opacity: 0.147;
+}
+.localunit_450:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_451{
+fill: #00008B;
+	 opacity: 0.147;
+}
+.localunit_451:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_452{
+fill: #00008B;
+	 opacity: 0.322;
+}
+.localunit_452:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_453{
+fill: #00008B;
+	 opacity: 0.322;
+}
+.localunit_453:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_454{
+fill: #00008B;
+	 opacity: 0.322;
+}
+.localunit_454:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_455{
+fill: #00008B;
+	 opacity: 0.322;
+}
+.localunit_455:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_456{
+fill: #00008B;
+	 opacity: 0.322;
+}
+.localunit_456:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_457{
+fill: #00008B;
+	 opacity: 0.336;
+}
+.localunit_457:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_458{
+fill: #00008B;
+	 opacity: 0.336;
+}
+.localunit_458:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_459{
+fill: #00008B;
+	 opacity: 0.336;
+}
+.localunit_459:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_460{
+fill: #00008B;
+	 opacity: 0.336;
+}
+.localunit_460:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_461{
+fill: #00008B;
+	 opacity: 0.336;
+}
+.localunit_461:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_462{
+fill: #00008B;
+	 opacity: 0.336;
+}
+.localunit_462:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_463{
+fill: #00008B;
+	 opacity: 0.336;
+}
+.localunit_463:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_464{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_464:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_465{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_465:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_466{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_466:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_467{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_467:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_468{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_468:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_469{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_469:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_470{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_470:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_471{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_471:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_472{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_472:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_473{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_473:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_474{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_474:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_475{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_475:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_476{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_476:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_477{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_477:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_478{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_478:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_479{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_479:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_480{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_480:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_481{
+fill: #00008B;
+	 opacity: 0.381;
+}
+.localunit_481:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_482{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_482:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_483{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_483:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_484{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_484:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_485{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_485:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_486{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_486:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_487{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_487:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_488{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_488:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_489{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_489:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_490{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_490:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_491{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_491:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_492{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_492:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_493{
+fill: #00008B;
+	 opacity: 0.3276;
+}
+.localunit_493:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_494{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_494:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_495{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_495:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_496{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_496:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_497{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_497:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_498{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_498:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_499{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_499:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_500{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_500:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_501{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_501:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_502{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_502:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_503{
+fill: #00008B;
+	 opacity: 0.315;
+}
+.localunit_503:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_504{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_504:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_505{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_505:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_506{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_506:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_507{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_507:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_508{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_508:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_509{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_509:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_510{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_510:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_511{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_511:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_512{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_512:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_513{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_513:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_514{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_514:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_515{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_515:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_516{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_516:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_517{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_517:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_518{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_518:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_519{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_519:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_520{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_520:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_521{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_521:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_522{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_522:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_523{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_523:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_524{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_524:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_525{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_525:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_526{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_526:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_527{
+fill: #00008B;
+	 opacity: 0.41506666666666675;
+}
+.localunit_527:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_528{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_528:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_529{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_529:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_530{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_530:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_531{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_531:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_532{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_532:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_533{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_533:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_534{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_534:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_535{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_535:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_536{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_536:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_537{
+fill: #00008B;
+	 opacity: 0.37;
+}
+.localunit_537:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_538{
+fill: #00008B;
+	 opacity: 0.342;
+}
+.localunit_538:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_539{
+fill: #00008B;
+	 opacity: 0.342;
+}
+.localunit_539:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_540{
+fill: #00008B;
+	 opacity: 0.342;
+}
+.localunit_540:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_541{
+fill: #00008B;
+	 opacity: 0.342;
+}
+.localunit_541:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_542{
+fill: #00008B;
+	 opacity: 0.342;
+}
+.localunit_542:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_543{
+fill: #00008B;
+	 opacity: 0.342;
+}
+.localunit_543:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_544{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_544:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_545{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_545:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_546{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_546:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_547{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_547:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_548{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_548:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_549{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_549:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_550{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_550:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_551{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_551:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_552{
+fill: #00008B;
+	 opacity: 0.2988;
+}
+.localunit_552:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_553{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_553:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_554{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_554:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_555{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_555:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_556{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_556:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_557{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_557:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_558{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_558:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_559{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_559:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_560{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_560:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_561{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_561:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_562{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_562:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_563{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_563:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_564{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_564:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_565{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_565:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_566{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_566:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_567{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_567:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_568{
+fill: #00008B;
+	 opacity: 0.2;
+}
+.localunit_568:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_569{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_569:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_570{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_570:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_571{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_571:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_572{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_572:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_573{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_573:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_574{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_574:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_575{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_575:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_576{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_576:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_577{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_577:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_578{
+fill: #00008B;
+	 opacity: 0.37979999999999997;
+}
+.localunit_578:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_579{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_579:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_580{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_580:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_581{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_581:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_582{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_582:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_583{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_583:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_584{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_584:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_585{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_585:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_586{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_586:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_587{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_587:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_588{
+fill: #00008B;
+	 opacity: 0.5302;
+}
+.localunit_588:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_589{
+fill: #00008B;
+	 opacity: 0.47153333333333336;
+}
+.localunit_589:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_590{
+fill: #00008B;
+	 opacity: 0.47153333333333336;
+}
+.localunit_590:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_591{
+fill: #00008B;
+	 opacity: 0.47153333333333336;
+}
+.localunit_591:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_592{
+fill: #00008B;
+	 opacity: 0.47153333333333336;
+}
+.localunit_592:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_593{
+fill: #00008B;
+	 opacity: 0.47153333333333336;
+}
+.localunit_593:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_594{
+fill: #00008B;
+	 opacity: 0.47153333333333336;
+}
+.localunit_594:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_595{
+fill: #00008B;
+	 opacity: 0.47153333333333336;
+}
+.localunit_595:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_596{
+fill: #00008B;
+	 opacity: 0.47153333333333336;
+}
+.localunit_596:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_597{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_597:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_598{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_598:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_599{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_599:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_600{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_600:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_601{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_601:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_602{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_602:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_603{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_603:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_604{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_604:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_605{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_605:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_606{
+fill: #00008B;
+	 opacity: 0.312;
+}
+.localunit_606:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_607{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_607:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_608{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_608:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_609{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_609:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_610{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_610:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_611{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_611:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_612{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_612:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_613{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_613:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_614{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_614:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_615{
+fill: #00008B;
+	 opacity: 0.409;
+}
+.localunit_615:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_616{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_616:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_617{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_617:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_618{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_618:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_619{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_619:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_620{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_620:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_621{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_621:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_622{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_622:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_623{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_623:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_624{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_624:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_625{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_625:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_626{
+fill: #00008B;
+	 opacity: 0.41400000000000003;
+}
+.localunit_626:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_627{
+fill: #00008B;
+	 opacity: 0.324;
+}
+.localunit_627:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_628{
+fill: #00008B;
+	 opacity: 0.324;
+}
+.localunit_628:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_629{
+fill: #00008B;
+	 opacity: 0.324;
+}
+.localunit_629:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_630{
+fill: #00008B;
+	 opacity: 0.324;
+}
+.localunit_630:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_631{
+fill: #00008B;
+	 opacity: 0.324;
+}
+.localunit_631:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_632{
+fill: #00008B;
+	 opacity: 0.324;
+}
+.localunit_632:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_633{
+fill: #00008B;
+	 opacity: 0.324;
+}
+.localunit_633:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_634{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_634:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_635{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_635:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_636{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_636:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_637{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_637:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_638{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_638:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_639{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_639:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_640{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_640:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_641{
+fill: #00008B;
+	 opacity: 0.2124;
+}
+.localunit_641:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_642{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_642:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_643{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_643:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_644{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_644:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_645{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_645:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_646{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_646:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_647{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_647:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_648{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_648:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_649{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_649:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_650{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_650:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_651{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_651:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_652{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_652:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_653{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_653:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_654{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_654:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_655{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_655:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_656{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_656:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_657{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_657:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_658{
+fill: #00008B;
+	 opacity: 0.441;
+}
+.localunit_658:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_659{
+fill: #00008B;
+	 opacity: 0.4212;
+}
+.localunit_659:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_660{
+fill: #00008B;
+	 opacity: 0.4212;
+}
+.localunit_660:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_661{
+fill: #00008B;
+	 opacity: 0.4212;
+}
+.localunit_661:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_662{
+fill: #00008B;
+	 opacity: 0.4212;
+}
+.localunit_662:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_663{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_663:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_664{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_664:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_665{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_665:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_666{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_666:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_667{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_667:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_668{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_668:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_669{
+fill: #00008B;
+	 opacity: 0.34740000000000004;
+}
+.localunit_669:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_670{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_670:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_671{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_671:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_672{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_672:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_673{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_673:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_674{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_674:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_675{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_675:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_676{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_676:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_677{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_677:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_678{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_678:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_679{
+fill: #00008B;
+	 opacity: 0.36360000000000003;
+}
+.localunit_679:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_680{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_680:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_681{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_681:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_682{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_682:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_683{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_683:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_684{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_684:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_685{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_685:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_686{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_686:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_687{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_687:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_688{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_688:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_689{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_689:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_690{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_690:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_691{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_691:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_692{
+fill: #00008B;
+	 opacity: 0.273;
+}
+.localunit_692:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_693{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_693:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_694{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_694:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_695{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_695:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_696{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_696:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_697{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_697:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_698{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_698:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_699{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_699:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_700{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_700:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_701{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_701:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_702{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_702:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_703{
+fill: #00008B;
+	 opacity: 0.261;
+}
+.localunit_703:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_704{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_704:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_705{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_705:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_706{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_706:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_707{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_707:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_708{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_708:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_709{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_709:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_710{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_710:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_711{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_711:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_712{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_712:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_713{
+fill: #00008B;
+	 opacity: 0.258;
+}
+.localunit_713:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_714{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_714:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_715{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_715:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_716{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_716:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_717{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_717:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_718{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_718:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_719{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_719:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_720{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_720:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_721{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_721:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_722{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_722:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_723{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_723:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_724{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_724:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_725{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_725:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_726{
+fill: #00008B;
+	 opacity: 0.27456;
+}
+.localunit_726:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_727{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_727:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_728{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_728:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_729{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_729:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_730{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_730:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_731{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_731:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_732{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_732:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_733{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_733:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_734{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_734:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_735{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_735:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_736{
+fill: #00008B;
+	 opacity: 0.438;
+}
+.localunit_736:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_737{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_737:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_738{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_738:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_739{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_739:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_740{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_740:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_741{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_741:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_742{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_742:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_743{
+fill: #00008B;
+	 opacity: 0.2592;
+}
+.localunit_743:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_744{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_744:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_745{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_745:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_746{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_746:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_747{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_747:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_748{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_748:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_749{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_749:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_750{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_750:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_751{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_751:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_752{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_752:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_753{
+fill: #00008B;
+	 opacity: 0.275;
+}
+.localunit_753:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_754{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_754:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_755{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_755:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_756{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_756:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_757{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_757:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_758{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_758:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_759{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_759:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_760{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_760:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_761{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_761:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_762{
+fill: #00008B;
+	 opacity: 0.3042;
+}
+.localunit_762:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_763{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_763:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_764{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_764:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_765{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_765:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_766{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_766:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_767{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_767:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_768{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_768:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_769{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_769:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_770{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_770:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_771{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_771:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_772{
+fill: #00008B;
+	 opacity: 0.5397333333333334;
+}
+.localunit_772:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_773{
+fill: #00008B;
+	 opacity: 0.33840000000000003;
+}
+.localunit_773:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_774{
+fill: #00008B;
+	 opacity: 0.33840000000000003;
+}
+.localunit_774:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_775{
+fill: #00008B;
+	 opacity: 0.33840000000000003;
+}
+.localunit_775:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+.localunit_776{
+fill: #00008B;
+	 opacity: 0.33840000000000003;
+}
+.localunit_776:hover{
+fill: #00E000;
+	 opacity: 0.5;
+}
+
