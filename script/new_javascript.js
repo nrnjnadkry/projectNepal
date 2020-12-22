@@ -26,9 +26,7 @@ class Unit {
     }
     /*New code */
     getProvinceDist(province_id) {
-        var curr_prov_val = [['Taplejung ', 'Sankhuwasabha ', 'Solukhumbu ', 'Okhaldhunga ', 'Khotang ', 'Bhojpur ',
-            'Dhankuta ', 'Terhathum ', 'Panchthar ', 'Ilam ', 'Jhapa ', 'Morang ', 'Sunsari ', 'Udayapur '
-        ], ['Saptari ', 'Siraha ', 'Dhanusa ', 'Mahottari ', 'Sarlahi ', 'Rautahat ', 'Bara ', 'Parsa '], ['Dolakha ', 'Sindhupalchok ', 'Rasuwa ', 'Dhading ', 'Nuwakot ', 'Kathmandu ', 'Bhaktapur ', 'Lalitpur ', 'Kavrepalanchok ', 'Ramechhap ', 'Sindhuli ', 'Makwanpur ', 'Chitawan '], ['Gorkha ', 'Manang ', 'Mustang ', 'Myagdi ', 'Kaski', 'Lamjung ', 'Tanahu ', 'Nawalparasi East ', 'Syangja ', 'Parbat ', 'Baglung '], ['Bardiya ', 'Dolpa ', 'Mugu ', 'Humla ', 'Jumla ', 'Kalikot ', 'Dailekh ', 'Jajarkot ', 'Rukum West ', 'Salyan '], ['Surkhet ', 'Bajura ', 'Bajhang ', 'Darchula ', 'Baitadi ', 'Dadeldhura ', 'Doti ', 'Achham ', 'Kailali']];
+        var curr_prov_val = [['Taplejung ', 'Sankhuwasabha ', 'Solukhumbu ', 'Okhaldhunga ', 'Khotang ', 'Bhojpur ', 'Dhankuta ', 'Terhathum ', 'Panchthar ', 'Ilam ', 'Jhapa ', 'Morang ', 'Sunsari ', 'Udayapur '], ['Saptari ', 'Siraha ', 'Dhanusa ', 'Mahottari ', 'Sarlahi ', 'Rautahat ', 'Bara ', 'Parsa '], ['Dolakha ', 'Sindhupalchok ', 'Rasuwa ', 'Dhading ', 'Nuwakot ', 'Kathmandu ', 'Bhaktapur ', 'Lalitpur ', 'Kavrepalanchok ', 'Ramechhap ', 'Sindhuli ', 'Makwanpur ', 'Chitawan '], ['Gorkha ', 'Manang ', 'Mustang ', 'Myagdi ', 'Kaski', 'Lamjung ', 'Tanahu ', 'Nawalparasi East ', 'Syangja ', 'Parbat ', 'Baglung '], ['Bardiya ', 'Dolpa ', 'Mugu ', 'Humla ', 'Jumla ', 'Kalikot ', 'Dailekh ', 'Jajarkot ', 'Rukum West ', 'Salyan '], ['Surkhet ', 'Bajura ', 'Bajhang ', 'Darchula ', 'Baitadi ', 'Dadeldhura ', 'Doti ', 'Achham ', 'Kailali']];
         var curr_data = document.getElementById("District");
         while (curr_data.length != 1) {
             curr_data.remove(curr_data.length - 1);
@@ -95,6 +93,7 @@ function getProvDistElements() {
 }
 function getDistLocalElements() {
     /*This function is to be implemented when needed*/
+    reset();
     var dist_id = Test_Insecure.District[Test_Insecure.District.selectedIndex].text;
     var dist = new Unit();
     console.log(dist.getDistrict(dist_id));
