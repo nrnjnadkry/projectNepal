@@ -1,4 +1,5 @@
 var canChange = true;
+var unlocked = true;
 class Unit {
     /*This is made with the intention of treating a local unit as a datatype so we may easily
     interact with the properties of local unit*/
@@ -25,19 +26,22 @@ class Unit {
         this.local_unit_province = province_list[i];
     }
     /*New code */
-    getProvinceDist(province_id) {
-        var curr_prov_val = [['Taplejung ', 'Sankhuwasabha ', 'Solukhumbu ', 'Okhaldhunga ', 'Khotang ', 'Bhojpur ', 'Dhankuta ', 'Terhathum ', 'Panchthar ', 'Ilam ', 'Jhapa ', 'Morang ', 'Sunsari ', 'Udayapur '], ['Saptari ', 'Siraha ', 'Dhanusa ', 'Mahottari ', 'Sarlahi ', 'Rautahat ', 'Bara ', 'Parsa '], ['Dolakha ', 'Sindhupalchok ', 'Rasuwa ', 'Dhading ', 'Nuwakot ', 'Kathmandu ', 'Bhaktapur ', 'Lalitpur ', 'Kavrepalanchok ', 'Ramechhap ', 'Sindhuli ', 'Makwanpur ', 'Chitawan '], ['Gorkha ', 'Manang ', 'Mustang ', 'Myagdi ', 'Kaski', 'Lamjung ', 'Tanahu ', 'Nawalparasi East ', 'Syangja ', 'Parbat ', 'Baglung '], ['Bardiya ', 'Dolpa ', 'Mugu ', 'Humla ', 'Jumla ', 'Kalikot ', 'Dailekh ', 'Jajarkot ', 'Rukum West ', 'Salyan '], ['Surkhet ', 'Bajura ', 'Bajhang ', 'Darchula ', 'Baitadi ', 'Dadeldhura ', 'Doti ', 'Achham ', 'Kailali']];
+    clearDistrictSelect() {
         var curr_data = document.getElementById("District");
         while (curr_data.length != 1) {
             curr_data.remove(curr_data.length - 1);
         }
-        var size = curr_prov_val[province_id].length;
+    }
+    getProvinceDist(province_id) {
+        var curr_prov_val = [['Taplejung ', 'Sankhuwasabha ', 'Solukhumbu ', 'Okhaldhunga ', 'Khotang ', 'Bhojpur ', 'Dhankuta ', 'Terhathum ', 'Panchthar ', 'Ilam ', 'Jhapa ', 'Morang ', 'Sunsari ', 'Udayapur '], ['Saptari ', 'Siraha ', 'Dhanusa ', 'Mahottari ', 'Sarlahi ', 'Rautahat ', 'Bara ', 'Parsa '], ['Dolakha ', 'Sindhupalchok ', 'Rasuwa ', 'Dhading ', 'Nuwakot ', 'Kathmandu ', 'Bhaktapur ', 'Lalitpur ', 'Kavrepalanchok ', 'Ramechhap ', 'Sindhuli ', 'Makwanpur ', 'Chitawan '], ['Gorkha ', 'Manang ', 'Mustang ', 'Myagdi ', 'Kaski', 'Lamjung ', 'Tanahu ', 'Nawalparasi East ', 'Syangja ', 'Parbat ', 'Baglung '], ['Bardiya ', 'Dolpa ', 'Mugu ', 'Humla ', 'Jumla ', 'Kalikot ', 'Dailekh ', 'Jajarkot ', 'Rukum West ', 'Salyan '], ['Surkhet ', 'Bajura ', 'Bajhang ', 'Darchula ', 'Baitadi ', 'Dadeldhura ', 'Doti ', 'Achham ', 'Kailali']];
+        var curr_data = document.getElementById("District");
+        var size = curr_prov_val[province_id - 1].length;
+        console.log(size);
         for (var loop_count = 0; loop_count < size; loop_count += 1) {
             var curr = document.createElement("option");
             curr.text = curr_prov_val[province_id - 1][loop_count];
             curr_data.add(curr);
         }
-        var sum = 0;
     }
     /*We may replace getUnitDistrict with a ajax & php in future. THis is just a stop gap*/
     getUnitDistrict(local_unit) {
@@ -61,7 +65,7 @@ class Unit {
     is supposed to return array containing 4 datas*/
     getUnitData(local_unit) {
         this.local_unit = local_unit;
-        if (this.local_unit == -1 || this.local_unit == null) {
+        if (this.local_unit == -1 || this.local_unit === null) {
             error(101);
         } else {
             return [this.local_unit_province, this.local_unit_district, this.local_unit, this.local_unit_population];
@@ -84,11 +88,12 @@ class Unit {
     /*Someday I might find use of this function*/
     getData() {
         return data_list;
-    };
-};
+    }
+}
 function getProvDistElements() {
     var prov_id = Test_Insecure.Province[Test_Insecure.Province.selectedIndex].value;
     var test = new Unit();
+    test.clearDistrictSelect();
     test.getProvinceDist(prov_id);
 }
 function getDistLocalElements() {
@@ -96,13 +101,16 @@ function getDistLocalElements() {
     reset();
     var dist_id = Test_Insecure.District[Test_Insecure.District.selectedIndex].text;
     var dist = new Unit();
+    canChange = true;
+    unlocked = true;
     console.log(dist.getDistrict(dist_id));
     createTable(dist.getDistrict(dist_id));
     canChange = false;
+    unlocked = false;
 }
 /*changeHTML is just here so that i can easily call it from another script and to be more editable without seeing the old defunct code*/
 function changeHTML(curr_data, unit) {
-    if (canChange) {
+    if (canChange && unlocked) {
         var x = new Unit();
         var curr_name = x.getUnitDistrict(unit);
         curr_name = x.local_unit_district;
@@ -115,19 +123,24 @@ function changeHTML(curr_data, unit) {
 }
 /*Code to change begins from here*/
 document.addEventListener("mouseover", checkMouse);
-document.addEventListener("auxclick", reset);
-function reset(){
-    canChange = true;
+document.addEventListener("click", reset);
+function reset() {
+    if (unlocked) {
+        canChange = true;
+    }
+    else {
+        unlocked = true;
+    }
 }
 function checkMouse() {
     window.onmouseover = function (e) {
         hovering_over = e.target.className;
-        if (hovering_over != undefined) {
-            if (hovering_over['baseVal'] != undefined) {
+        if (hovering_over !== undefined) {
+            if (hovering_over['baseVal'] !== undefined) {
                 createTable(hovering_over["baseVal"]);
             }
         }
-    };
+    }
 }
 
 function createTable(unit) {
